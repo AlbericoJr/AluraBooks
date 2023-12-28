@@ -1,4 +1,4 @@
-# Alura_Plus
+# AluraBooks
  Site criado com HTML e CSS
 
 Projeto feito durante a aula na plataforma Alura, criado utilizando HTML e CSS.
